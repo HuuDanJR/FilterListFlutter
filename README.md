@@ -14,3 +14,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+<h1><b>FilterList Flutter ScreenShot</b></h1>
+<img src = "https://user-images.githubusercontent.com/40542971/85994769-77d00f80-ba22-11ea-8764-42aae4f6d0fe.png" width = "300"/>
+<p align = "center">
+  
+   <img src = "https://user-images.githubusercontent.com/40542971/85994771-7999d300-ba22-11ea-87fc-4bec623e724a.png" width = "300"/>
+   <img src = "https://user-images.githubusercontent.com/40542971/85994774-7999d300-ba22-11ea-931d-0e6480039e69.png" width = "300"/>
+</p>
