@@ -25,9 +25,4 @@ samples, guidance on mobile development, and a full API reference.
    <img src = "https://user-images.githubusercontent.com/40542971/85994771-7999d300-ba22-11ea-87fc-4bec623e724a.png" width = "300"/>
    <img src = "https://user-images.githubusercontent.com/40542971/85994774-7999d300-ba22-11ea-931d-0e6480039e69.png" width = "300"/>
 </p></p>
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
+
