@@ -18,8 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 <h1><b>FilterList Flutter ScreenShot</b></h1>
 <BR>
   <br>
-<img margin-left: auto;
-  margin-right: auto; align="center" src = "https://user-images.githubusercontent.com/40542971/85994769-77d00f80-ba22-11ea-8764-42aae4f6d0fe.png" width = "300"/>
+
 <p align = "center">
   <img margin-left: auto;
   margin-right: auto; align="center" src = "https://user-images.githubusercontent.com/40542971/85994769-77d00f80-ba22-11ea-8764-42aae4f6d0fe.png" width = "300"/>
